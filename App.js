@@ -13,15 +13,19 @@ import ReactDOM from "react-dom/client";
  */
 
 // React Element
-const jsxHeading = <h1 className="heading">Namaste React Using JSX 🚀 </h1>;
+const Title = () => <h1 className="heading">Namaste React Using JSX 🚀 </h1>;
 
 // React Functional Component
-const HeadingComponent1 = () => {
-  return <h1>Namaste Functional Component</h1>;
-};
+// Component Composition
+const HeadingComponent1 = () => (
+  <>
+    <Title />
+    <h1>Namaste Functional Component</h1>
+  </>
+);
 
 const HeadingComponent2 = () => <h1>Namaste Functional Component</h1>;
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(jsxHeading);
+root.render(<HeadingComponent1 />);
