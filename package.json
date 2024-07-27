@@ -4,6 +4,8 @@
   "description": "This is a namaste-react project by srikanth",
   "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
