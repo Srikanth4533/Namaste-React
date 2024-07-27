@@ -1,5 +1,5 @@
 5990
-73C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.html133665333016207939 0
+73C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.html133665336327602113 0
 102C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@swc\helpers\_\_to_property_key133661332368482298 1
 140C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133661332387956554 0
 103C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\packager-js\lib\utils.js133661332371895277 0
@@ -7,7 +7,7 @@
 97C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\svgo\plugins\mergePaths.js133661332358603474 0
 155C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133661332356342705 0
 98C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\css-tree\lib\utils\clone.js133661332363944476 0
-64C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\App.js133665331992080040 0
+64C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\App.js133665336320811656 0
 130C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\types.json133661332355945295 0
 99C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\type-fest\source\opaque.d.ts133661332355743898 0
 146C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133661332351936418 0
@@ -18,7 +18,6 @@
 158C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133661332355801653 0
 82C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\detect-libc133661332355399342 1
 135C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133661332383416052 0
-84C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.7826abd7.js.map133665333017975734 0
 104C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\workers\lib\WorkerFarm.js133661332371010427 0
 80C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\commander133661332353127461 1
 142C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\var.js133661332363116709 0
@@ -31,13 +30,12 @@
 112C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\react-dom\cjs\react-dom.production.min.js133661990253845583 0
 108C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\runtime-js\src\helpers\worker133661332380174000 1
 102C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\caniuse-lite\data\regions\MP.js133661332371895277 0
-80C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.7826abd7.js133665333017889485 0
 95C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\abortcontroller-polyfill133661332365635427 1
 109C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\msgpackr\dist\index-no-eval.min.js.map133661332362907202 0
 91C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\posthtml-render\dist133661332354935399 1
 137C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.json133661332355743898 0
 103C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\semver\internal\parse-options.js133661332356374050 0
-62C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist133665333017985738 1
+62C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist133665336330092887 1
 132C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133661332352162395 1
 88C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\svgo\lib\style.js133661332356063101 0
 110C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@swc\helpers\_\_class_private_field_get133661332366289649 1
@@ -5340,7 +5338,7 @@
 124C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\style.js133661332359388240 0
 120C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo133661332360691221 1
 128C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo-node.js133661332359435040 0
-81C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.9e4c6fd2.css133661997714964495 0
+81C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.9e4c6fd2.css133665336327602113 0
 123C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo.js133661332360095679 0
 124C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\types.ts133661332360828504 0
 127C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\coa.js133661332354497909 0
@@ -5988,4 +5986,6 @@
 102C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\.bin\update-browserslist-db.cmd133661332576910745 0
 102C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\node_modules\.bin\update-browserslist-db.ps1133661332576910745 0
 84C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.6bd02f5a.js.map133661990911968751 0
-85C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.9e4c6fd2.css.map133661997714996519 0
+85C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.9e4c6fd2.css.map133665336327685979 0
+80C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.7826abd7.js133665336329841509 0
+84C:\Users\ImSri\OneDrive\Desktop\SrikanthDev\namaste-react\dist\index.7826abd7.js.map133665336330062870 0

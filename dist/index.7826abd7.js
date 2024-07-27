@@ -2966,15 +2966,39 @@ var _clientDefault = parcelHelpers.interopDefault(_client);
  *     </div>
  * </div>
  *
- */ const jsxHeading = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-    children: "Namaste React Using JSX"
+ */ // React Element
+const jsxHeading = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+    className: "heading",
+    children: "Namaste React Using JSX \uD83D\uDE80 "
 }, void 0, false, {
     fileName: "App.js",
-    lineNumber: 15,
+    lineNumber: 16,
     columnNumber: 20
 }, undefined);
+// React Functional Component
+const HeadingComponent1 = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+        children: "Namaste Functional Component"
+    }, void 0, false, {
+        fileName: "App.js",
+        lineNumber: 20,
+        columnNumber: 10
+    }, undefined);
+};
+_c = HeadingComponent1;
+const HeadingComponent2 = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+        children: "Namaste Functional Component"
+    }, void 0, false, {
+        fileName: "App.js",
+        lineNumber: 23,
+        columnNumber: 33
+    }, undefined);
+_c1 = HeadingComponent2;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(jsxHeading);
+var _c, _c1;
+$RefreshReg$(_c, "HeadingComponent1");
+$RefreshReg$(_c1, "HeadingComponent2");
 
   $parcel$ReactRefreshHelpers$c1db.postlude(module);
 } finally {

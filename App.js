@@ -12,7 +12,15 @@ import ReactDOM from "react-dom/client";
  *
  */
 
-const jsxHeading = <h1>Namaste React Using JSX</h1>;
+// React Element
+const jsxHeading = <h1 className="heading">Namaste React Using JSX 🚀 </h1>;
+
+// React Functional Component
+const HeadingComponent1 = () => {
+  return <h1>Namaste Functional Component</h1>;
+};
+
+const HeadingComponent2 = () => <h1>Namaste Functional Component</h1>;
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
