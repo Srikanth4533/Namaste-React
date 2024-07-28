@@ -12,20 +12,28 @@ import ReactDOM from "react-dom/client";
  *
  */
 
-// React Element
-const Title = () => <h1 className="heading">Namaste React Using JSX 🚀 </h1>;
+const Header = () => {
+  return <div>Header</div>;
+};
 
-// React Functional Component
-// Component Composition
-const HeadingComponent1 = () => (
-  <>
-    <Title />
-    <h1>Namaste Functional Component</h1>
-  </>
-);
+const Body = () => {
+  return <div>Body</div>;
+};
 
-const HeadingComponent2 = () => <h1>Namaste Functional Component</h1>;
+const Footer = () => {
+  return <div>Footer</div>;
+};
+
+const AppLayout = () => {
+  return (
+    <div className="app">
+      <Header />
+      <Body />
+      <Footer />
+    </div>
+  );
+};
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<HeadingComponent1 />);
+root.render(<AppLayout />);
