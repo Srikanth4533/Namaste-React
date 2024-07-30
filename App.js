@@ -1697,7 +1697,6 @@ const resObj = [
 
 const RestaurantCard = (props) => {
   const { resData } = props;
-  console.log(resData[3]);
   return (
     <>
       {resData.map((data) => {
